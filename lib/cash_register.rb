@@ -20,5 +20,7 @@ class CashRegister
   else 
     @items << item 
   end 
+  
+  
       
 end 
